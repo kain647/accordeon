@@ -13,7 +13,6 @@ const Expandable = props => {
 };
 
 const Accord = () => {
-  const [activeBlock, activate] = useState(0);
   return (
     <Container>
       <Expandable
